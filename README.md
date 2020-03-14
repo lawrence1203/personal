@@ -1,0 +1,2 @@
+# personal
+"# discordbot1" 
